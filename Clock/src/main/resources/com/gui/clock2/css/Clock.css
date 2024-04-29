@@ -1,0 +1,10 @@
+
+
+.anchorpane_Clock{
+    -fx-border-color: #696969 ;
+}
+
+.node{
+    -fx-border-color: #696969 ;
+    -fx-background-radius: 0px;
+}
